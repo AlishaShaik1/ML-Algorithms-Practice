@@ -1,5 +1,4 @@
 <h1 align="center">🤖 ML Algorithms Practice</h1>
-This repository contains my hands-on practice and implementation of core Machine Learning algorithms, developed and tested using Google Colab.
 <p align="center">
   A hands-on Machine Learning practice repository built using Google Colab
 </p>
@@ -8,7 +7,9 @@ This repository contains my hands-on practice and implementation of core Machine
   Learning • Implementing • Experimenting
 </p>
 
-📌 Overview
+This repository contains my hands-on practice and implementation of core Machine Learning algorithms, developed and tested using Google Colab.
+
+## 📌 Overview
 
 Includes implementations of fundamental and advanced ML algorithms
 
@@ -16,7 +17,7 @@ Focused on building strong conceptual and practical understanding
 
 Written in a clear, modular, and reproducible manner
 
-▶️ How to Run
+## ▶️ How to Run
 
 Open the notebook in Google Colab
 
@@ -24,7 +25,7 @@ Upload the datasets provided in this repository (or use your own compatible data
 
 Run the cells sequentially to train, evaluate, and analyze the models
 
-📂 Contents
+## 📂 Contents
 
 Data preprocessing and feature engineering
 
@@ -34,7 +35,7 @@ Model training and evaluation
 
 Experimentation and practice notebooks
 
-🎯 Purpose
+## 🎯 Purpose
 
 This project is intended for:
 
@@ -44,7 +45,7 @@ Experimenting with different algorithms and datasets
 
 Serving as a reference for future ML projects
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python
 
