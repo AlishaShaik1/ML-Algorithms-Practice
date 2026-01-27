@@ -1,9 +1,5 @@
-<h1 align="center">ML Algorithms Practice</h1>
-
-This repository contains my hands-on practice and implementation of core Machine Learning algorithms, developed and tested using Google Colab.
-
 <h1 align="center">🤖 ML Algorithms Practice</h1>
-
+This repository contains my hands-on practice and implementation of core Machine Learning algorithms, developed and tested using Google Colab.
 <p align="center">
   A hands-on Machine Learning practice repository built using Google Colab
 </p>
