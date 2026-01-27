@@ -1,4 +1,4 @@
-ML-Algorithms-Practice
+#ML-Algorithms-Practice
 
 This repository contains my hands-on practice and implementation of core Machine Learning algorithms, developed and tested using Google Colab.
 
